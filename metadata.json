@@ -1,0 +1,6 @@
+{
+  "name": "Taro for comfort",
+  "description": "연애운 & 재물운 전문 프리미엄 타로/사주 예약 서비스 Taro for comfort",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
